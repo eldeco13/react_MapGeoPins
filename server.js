@@ -60,6 +60,6 @@ const server = new ApolloServer({
     }
 })
 
-server.listen().then( ({ url  }) => {
+server.listen({port: process.env.PORT || 4000}).then( ({ url  }) => {
     console.log(`my server visi listening on ${url}`);
 });
