@@ -1,4 +1,3 @@
-# react_MapGeoPins
 This is a full stack React App with GraphQL Server (Apollo Server 2) on the backend. 
 
 It uses a cloud MongoDB database (Mongo Atlas) with React Hooks to manage the state (no Redux is necessary)
