@@ -12,14 +12,14 @@ The map functionality has been implemnted using the Mapbox API and ReactMapGL
 
 # React and Backend Features used
 
-• All major hooks: useState, useEffect, useContext, and useReducer
-• Custom hooks to hook in to additional functionality
-• Integrating social login (Google OAuth) with Apollo Server 2
-• Display app changes in real time with GraphQL subscriptions
-• Dynamic image uploads using the Cloudinary API
-• MongoDB in the cloud with MongoDB Atlas
-• Mongoose to create models, CRUD and search operations, and population
-• Material UI component library and Material UI Icon. MediaQuery hook for responsive mobile view
-• Geolocation API to get users current location
-• Authorization via with React Router v4 and GraphQL/Apollo
-• Error handling on the server and in the React client
+• All major hooks: useState, useEffect, useContext, and useReducer <br>
+• Custom hooks to hook in to additional functionality <br>
+• Integrating social login (Google OAuth) with Apollo Server 2 <br>
+• Display app changes in real time with GraphQL subscriptions <br>
+• Dynamic image uploads using the Cloudinary API <br>
+• MongoDB in the cloud with MongoDB Atlas <br>
+• Mongoose to create models, CRUD and search operations, and population <br>
+• Material UI component library and Material UI Icon. MediaQuery hook for responsive mobile view <br>
+• Geolocation API to get users current location <br>
+• Authorization via with React Router v4 and GraphQL/Apollo <br>
+• Error handling on the server and in the React client <br>
