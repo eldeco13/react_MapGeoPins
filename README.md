@@ -4,7 +4,7 @@ It uses a cloud MongoDB database (Mongo Atlas) with React Hooks to manage the st
 
 Social authentication is done thorugh (Google OAuth2). 
 
-Real time data with is managed through GraphQL Subscriptions. 
+Real time data is managed through GraphQL Subscriptions. 
 
 The App uses a cloud platform ( Cloudinary ) to handle image uploads . 
 
